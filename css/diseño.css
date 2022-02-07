@@ -1,0 +1,191 @@
+body{
+    background-color: whitesmoke;
+    width: 1343px; 
+    height:768px; 
+}
+
+
+/**Header**/
+
+header {
+    background-color: rgb(28, 28, 28);
+    text-align: center;
+}
+
+li {
+    font-size: 15px;
+    font-family: "Russo One";
+    list-style: none;
+    text-align: end;
+}
+
+/* botones */ 
+
+#dropdownMenuButton1{
+    font-family: "Russo One";
+    background-color:darkblue;
+    font-style: italic;
+}
+
+
+#btnComprar1{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar2{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar3{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar4{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar21{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar22{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar23{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar24{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar14{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar13{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar11{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+#btnComprar12{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;    
+}
+
+.finDeCompra{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+}
+
+.btnEnviarPedido{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+    
+}
+.cotizacion {
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+}
+.finalizarPedido{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+}
+.conDebito{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+}
+.conCredito{
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+}
+.reHacer {
+    font-family: "Russo One";
+    background-color: darkblue;
+    font-style: italic;
+
+}
+
+
+/** Fuentes **/ 
+
+h1 {
+    font-size: 50px;
+    font-family: "russo one";
+    font-style: italic;
+    font-weight: 700;
+    color: white;
+}
+h2{
+    font-size: 30px;
+    font-family: "Russo One";
+    font-style: normal;
+    font-weight: 400;
+    color: black
+}
+h3 {
+    font-size: 20px;
+    font-family: "Russo One";
+    font-style: normal;
+    font-weight: 300;
+    color: black
+}
+h4 {
+    font-size: 18px;
+    font-family: "Russo One";
+    font-style: normal;
+    font-weight: 300;
+    color: black
+}
+p{
+    font-size: 15px;
+    font-family: "Russo One";
+    font-style: italic;
+    font-weight: 200;
+    color: black
+}
+
+
+
+.formularioDePedido{
+    text-align: center;
+    
+}
+
+
+
+
+
+
+
+
+    
+
+ 
